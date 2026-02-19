@@ -1,30 +1,61 @@
-spy fall 
-This is a responsive company website built using HTML, CSS, and JavaScript. It presents to-do-app , a modern and clean design.
+Spyfall Game
+
+This is a responsive web-based Spyfall game built using React.
+It allows players to join a game session and experience the classic Spyfall gameplay in a clean and modern UI.
 
 Purpose of the Project
+
 I built this project to practice:
 
-Creating structured web pages
-Responsive design
-Improving UI layout skills
+Building interactive web applications using React
+
+Managing state and game logic
+
+Creating responsive UI with modern tools
+
+Working with component-based architecture
+
 Technologies Used
+
+React (Vite)
+
+Tailwind CSS
+
+JavaScript (ES6+)
+
 HTML5
-CSS3
-JavaScript
+
 Features
+
+Interactive Spyfall game logic
+
 Responsive design (works on mobile and desktop)
-Navigation bar
-Clean modern layout
+
+Clean and modern UI
+
+Real-time role display (Spy / Location player)
+
+Game session interface
+
 Live Demo
-👉(https://spy-fall1.netlify.app/)
+
+👉 https://your-live-link-here.com/
+
 Screenshot
-Website Screenshot
 
 What I Learned
-How to structure a real company website
-Improving using JavaScript
-Solving design and spacing problems
-CONTACT HERE
-Telegram : @zg22x
 
-INSTAGRAM : zg22x
+How to structure a React project professionally
+
+Managing game state using React hooks
+
+Building reusable components
+
+Improving UI design with Tailwind CSS
+
+Debugging and handling project structure issues
+
+Contact
+
+Telegram: @zg22x
+Instagram: zg22x
