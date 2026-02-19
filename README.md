@@ -16,7 +16,7 @@ Creating responsive UI with modern tools
 
 Working with component-based architecture
 
-![Website Screenshot](scr/bg.jpg)
+![Website Screenshot](scr/gb.png)
 
 # Technologies Used
 
