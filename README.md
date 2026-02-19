@@ -16,8 +16,10 @@ Creating responsive UI with modern tools
 
 Working with component-based architecture
 
-Technologies Used
-![Website Screenshot](scr/bg.png)
+![Website Screenshot](scr/bg.jpg)
+
+# Technologies Used
+
 React (Vite)
 
 Tailwind CSS
