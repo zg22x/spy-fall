@@ -1,4 +1,4 @@
-Spyfall Game
+# Spyfall Game
 
 This is a responsive web-based Spyfall game built using React.
 It allows players to join a game session and experience the classic Spyfall gameplay in a clean and modern UI.
@@ -39,9 +39,12 @@ Game session interface
 
 Live Demo
 
-👉 https://your-live-link-here.com/
+# 👉 https://spy-fall1.netlify.app/
 
-Screenshot
+# Screenshot
+![Website Screenshot](scr/scr1.png)
+![Website Screenshot](scr/scr2.png)
+![Website Screenshot](scr/scr3.png)
 
 What I Learned
 
@@ -55,7 +58,8 @@ Improving UI design with Tailwind CSS
 
 Debugging and handling project structure issues
 
-Contact
+## CONTACT HERE
 
-Telegram: @zg22x
-Instagram: zg22x
+Telegram : @zg22x 
+
+INSTAGRAM : zg22x
