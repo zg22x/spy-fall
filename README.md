@@ -42,8 +42,8 @@ Live Demo
 # 👉 https://spy-fall1.netlify.app/
 
 # Screenshot
-![Website Screenshot](scr/scr1.png)
 ![Website Screenshot](scr/scr2.png)
+![Website Screenshot](scr/scr1.png)
 ![Website Screenshot](scr/scr3.png)
 
 What I Learned
