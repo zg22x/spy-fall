@@ -1,5 +1,6 @@
 # Spyfall Game
 
+![Website Screenshot](scr/icon.png)
 This is a responsive web-based Spyfall game built using React.
 It allows players to join a game session and experience the classic Spyfall gameplay in a clean and modern UI.
 
